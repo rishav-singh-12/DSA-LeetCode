@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1872-stone-game-viii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1872-stone-game-viii) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sorting
+|  |
+| ------- |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 <!---LeetCode Topics End-->
