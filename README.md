@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0041-first-missing-positive) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1872-stone-game-viii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
