@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1872-stone-game-viii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Ternary Search
 |  |
 | ------- |
