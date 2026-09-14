@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0202-happy-number) |
 | [1872-stone-game-viii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [3870-count-commas-in-range](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0389-find-the-difference) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## String Matching
 |  |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
