@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0410-split-array-largest-sum](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0389-find-the-difference) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -172,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
