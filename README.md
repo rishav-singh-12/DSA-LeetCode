@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1872-stone-game-viii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
