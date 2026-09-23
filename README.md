@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0917-reverse-only-letters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1678-goal-parser-interpretation](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
