@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1678-goal-parser-interpretation](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2000-reverse-prefix-of-word](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
