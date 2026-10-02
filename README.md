@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0202-happy-number) |
 | [1872-stone-game-viii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
