@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0292-nim-game) |
 | [1872-stone-game-viii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3870-count-commas-in-range) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0292-nim-game) |
 | [1872-stone-game-viii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0292-nim-game) |
 | [1872-stone-game-viii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
@@ -261,4 +264,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0856-score-of-parentheses](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
