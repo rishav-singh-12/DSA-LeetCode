@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Stack
 |  |
