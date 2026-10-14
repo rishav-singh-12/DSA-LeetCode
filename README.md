@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0832-flipping-an-image](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0043-multiply-strings) |
+| [0832-flipping-an-image](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [1441-build-an-array-with-stack-operations](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0541-reverse-string-ii) |
+| [0832-flipping-an-image](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0917-reverse-only-letters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2000-reverse-prefix-of-word) |
@@ -291,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0292-nim-game) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
