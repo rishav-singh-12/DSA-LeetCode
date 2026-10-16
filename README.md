@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0043-multiply-strings) |
 | [0202-happy-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0292-nim-game) |
+| [1185-day-of-the-week](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1185-day-of-the-week) |
 | [1872-stone-game-viii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3870-count-commas-in-range](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3870-count-commas-in-range) |
