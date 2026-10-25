@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0292-nim-game) |
 | [1185-day-of-the-week](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1185-day-of-the-week) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1837-sum-of-digits-in-base-k](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1872-stone-game-viii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
