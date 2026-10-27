@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1748-sum-of-unique-elements](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1872-stone-game-viii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1872-stone-game-viii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
