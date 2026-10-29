@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
+| [1844-replace-all-digits-with-characters](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1844-replace-all-digits-with-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
