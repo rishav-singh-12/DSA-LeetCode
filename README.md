@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0821-shortest-distance-to-a-character](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0832-flipping-an-image) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0414-third-maximum-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
