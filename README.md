@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
