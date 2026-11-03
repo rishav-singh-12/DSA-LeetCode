@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0292-nim-game) |
 | [1185-day-of-the-week](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1185-day-of-the-week) |
+| [1323-maximum-69-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1323-maximum-69-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1837-sum-of-digits-in-base-k](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1872-stone-game-viii](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1872-stone-game-viii) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1323-maximum-69-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
