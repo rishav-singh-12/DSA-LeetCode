@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3174-clear-digits](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3174-clear-digits](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
