@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0292-nim-game) |
 | [1185-day-of-the-week](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1185-day-of-the-week) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1323-maximum-69-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1837-sum-of-digits-in-base-k](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
