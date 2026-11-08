@@ -352,5 +352,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/rishavsingh10a-sys/DSA-LeetCode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
